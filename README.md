@@ -20,3 +20,15 @@ Taller #2 porcentajes y descuentos
 -Crear funciones para seleccionar precios que se elijan
 
 -Integrar HTML con JS
+
+Taller #3 
+
+Promedio mediana y moda 
+
+-Definir las formulas 
+
+-Implementar las fórmulas en JS 
+
+-Crear funciones para seleccionar precios que se elijan
+
+-Integrar HTML con JS
